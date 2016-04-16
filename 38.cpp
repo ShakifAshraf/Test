@@ -67,7 +67,7 @@ int main()
     int s;
     cout<<"enter size of vector : ";
     cin>>s;
-    santo.creat_vector(s);
+    \\sudhgysgfdguagvkhgbvaghxvjk iabnx vscuiasbjxc asxtag x
     cout<<"enter "<<s<<" elements one by one :"<<endl;
     for(int i=0; i<s; i++)
     {
