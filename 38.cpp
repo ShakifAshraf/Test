@@ -41,7 +41,7 @@ void vector:: display(void)
 void vector::modify(void)
 {
     int i;
-    cout<<"to edit a given element enter position of the element : ";
+    //cout<<"to edit a given element enter position of the element : ";
     cin>>i;
     i--;
     cout<<"Now enter new value of  "<<i+1<<"th element : ";
